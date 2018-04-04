@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Virtual Bank</string>
+    <string name="textbox">Hello World!</string>
+    <string name="textboxed">none</string>
+    <string name="title_activity_enter_withdrawal">enterWithdrawalActivity</string>
+    <string name="title_activity_bills">billsActivity</string>
+    <string name="title_activity_deposits">depositsActivity</string>
+    <string name="title_activity_transactions">depositsActivity</string>
+    <string name="title_activity_rebills">rebillsActivity</string>
+</resources>
